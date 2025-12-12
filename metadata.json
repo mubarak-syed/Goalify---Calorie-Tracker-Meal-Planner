@@ -1,0 +1,9 @@
+{
+  "name": "Goalify",
+  "description": "Calorie Tracker & Meal planner focusing on sustainable eating and metabolic health using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
